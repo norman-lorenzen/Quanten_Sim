@@ -1,5 +1,5 @@
-#ifndef simulation_H
-#define simulation_H
+#ifndef logik_H
+#define logik_H
 
 typedef struct
 {
