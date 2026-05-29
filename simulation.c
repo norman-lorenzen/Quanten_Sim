@@ -4,11 +4,10 @@
 
 int main (void)
 {
-    Qubit my_qubit[2];
+    Qubit my_qubit;
 
     // printing start points of simulation
-    initialize_qubit(&my_qubit[1]);
-    initialize_qubit(&my_qubit[2]);
+    initialize_qubit(&my_qubit);
     
 
     printf("Simulation start, showing start value!\n");
